@@ -1,4 +1,4 @@
-**Student Performance Prediction Model with Machine Learning**
+# **Student Performance Prediction Model with Machine Learning**
 
 
 This project emphasizes implementing popular **machine learning** concepts over a student performance dataset.
