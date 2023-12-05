@@ -1,0 +1,1 @@
+This dataset is absolutely ready to use. Some columns are being modified for better performance such as G1, G2, and G3. These columns are being named as "first-period-grade", "second-period-grade", and "final-grade".
